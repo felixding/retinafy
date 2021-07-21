@@ -1,6 +1,6 @@
 # Retinafy
 
-Retinafy is a simple Automator Quick Action that lets you retinafy images in 1 click in Finder.
+Retinafy is a simple Automator Quick Action that lets you retinafy images in 1 click.
 
 ![preview](https://user-images.githubusercontent.com/111456/126425737-581f2d59-a770-4dce-b71f-d17283f162c6.png)
 
